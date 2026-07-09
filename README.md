@@ -1,18 +1,19 @@
 # Hi, I'm Ajeet 👋🏽
 
-Welcome to my Github profile! I'm a Biomedical Mechanical Engineering graduate from the University of Ottawa with a passion for aerodynamics and fluid mechanics. I enjoy working on projects that combine theoretical physics with practical implementation through Python-driven analysis, CFD, and parametric CAD design.
+I'm a Mechanical Engineering graduate from the University of Ottawa specializing in aerodynamics, computational fluid dynamics, and guidance, navigation, and control (GNC) with experience in Python-driven simulation, optimization, and control systems.
 
 ## 🛠️ Technologies & Tools
-**Programming & Analysis:** Python (NumPy, Pandas, SciPy, Matplotlib), MATLAB, Excel
-**CAD & Simulation:** SolidWorks, ANSYS, FreeCAD, Fusion 360, SU2
-**Manufacturing:** CNC Machining, 3D Printing, Lathe & Mill Operations, MIG Welding
+**Aerodynamics & CFD:** SU2, $\Phi$Flow, Gmsh, PyVista, NeuralFoil
+**GNC & Controls:** LQR Optimal Control, APF Guidance, Graph Laplacian Consensus, DCM
+**CAD & Simulation:** SolidWorks, ANSYS, FreeCAD, Fusion 360
+**Programming & Analysis:** Python (NumPy, Pandas, SciPy, Matplotlib), MATLAB
 ## 🌟 Featured Projects
 | Project | Tools Used | Description |
 | :--- | :--- | :--- |
-| [Aerodynamics in Soccer](https://ajeet-krish.github.io/Soccer-CFD) | Python, $\Phi$Flow, SU2, gmsh, PyVista | Two-solver CFD pipeline analyzing the Magnus effect, knuckleball dynamics, and wake drafting for overlapping players. |
-| Wearable Hip Protector | SolidWorks, MATLAB, ANSYS | Capstone project designing a wearable system to mitigate fall impact forces using FEA stress simulations and a custom MATLAB GUI. |
-| [3D Orbital Trajectory Animator](https://ajeet-krish.github.io/3D-Orbital-Trajectory-Animator) | Python, PyAstronomy, Matplotlib | 3D visualizations of Keplerian orbits (LEO, GEO, Molniya) and maneuvers (Hohmann transfers, J2 precession) using two-body mechanics. |
-| [Transonic Airfoil Optimization](https://airfoil-optimizer.streamlit.app) | Python, AeroSandbox, NeuralFoil, IPOPT, CadQuery, Streamlit | MDO-to-CAD pipeline for optimizing transonic wing geometry under multi-point constraints with an interactive design dashboard. |
+| [SwarmGNC: Decentralized UAV Formation Control](https://github.com/ajeet-krish/UAV_swarm) | Python, NumPy, SciPy, Matplotlib, Three.js | Decentralized multi-agent UAV simulation with LQR optimal control, APF obstacle avoidance, graph Laplacian consensus, and Dryden wind turbulence modeling for 7-drone wedge formations. |
+| [Airfoil CFD Explorer](https://github.com/ajeet-krish/Airfoil_CFD) | Python, SU2, Gmsh, NeuralFoil, PyVista | Automated compressible RANS CFD pipeline with Cl/Cd polars across 5 AoA, validated against Ladson 1988 wind tunnel data, coupled with CST-based shape optimization. |
+| [Aerodynamics in Soccer](https://ajeet-krish.github.io/Soccer-CFD) | Python, $\Phi$Flow, SU2, Gmsh, PyVista | Two-solver CFD pipeline analyzing Magnus effect, knuckleball vortex shedding, and wake drafting for overlapping players across multiple Reynolds regimes. |
+| [F1 Aerodynamics Dashboard](https://github.com/ajeet-krish/F1-telemetry-analysis) | Python, FastF1, SU2, Plotly, NumPy, SciPy | Interactive F1 aero analysis platform combining real telemetry with first-principles analytical models (thin airfoil theory, ground effect) and SU2-validated 2D venturi tunnel simulations. |
 
 ## 📈 GitHub Stats
 <p align="left">
