@@ -1,25 +1,19 @@
 # Hi, I'm Ajeet 👋🏽
 
-I'm a Mechanical Engineering graduate from the University of Ottawa specializing in aerodynamics, computational fluid dynamics, and guidance, navigation, and control (GNC) with experience in Python-driven simulation, optimization, and control systems.
+I'm a Mechanical Engineering graduate specializing in CFD, FEA, and autonomous flight dynamics, with hands-on experience developing high-performance C++ physics solvers, Python simulation tools, and control systems. Eligible to work in both Canada and the United States.
 
 ## 🛠️ Technologies & Tools
-**Aerodynamics & CFD:** SU2, $\Phi$Flow, Gmsh, PyVista, NeuralFoil
-**GNC & Controls:** LQR Optimal Control, APF Guidance, Graph Laplacian Consensus, DCM
-**CAD & Simulation:** SolidWorks, ANSYS, FreeCAD, Fusion 360
-**Programming & Analysis:** Python (NumPy, Pandas, SciPy, Matplotlib), MATLAB
+**Aerodynamics & CFD:** ANSYS CFD, STAR-CCM+, SU2, OpenFOAM, $\Phi$Flow, Gmsh, ParaView
+**Programming & CAD/FEA:** Python, C++, MATLAB, SolidWorks, Autodesk Fusion, Git, CMake
+**Dynamics & Control:** LQR Optimal Control, State-Space Dynamics, APF Guidance, Graph Laplacian, Monte Carlo
+**Manufacturing:** CNC Machining, 3D Printing, Lathe & Mill Operations, MIG Welding
+
 ## 🌟 Featured Projects
 | Project | Tools Used | Description |
 | :--- | :--- | :--- |
-| [SwarmGNC: Decentralized UAV Formation Control](https://github.com/ajeet-krish/UAV_swarm) | Python, NumPy, SciPy, Matplotlib, Three.js | Decentralized multi-agent UAV simulation with LQR optimal control, APF obstacle avoidance, graph Laplacian consensus, and Dryden wind turbulence modeling for 7-drone wedge formations. |
-| [Airfoil CFD Explorer](https://github.com/ajeet-krish/Airfoil_CFD) | Python, SU2, Gmsh, NeuralFoil, PyVista | Automated compressible RANS CFD pipeline with Cl/Cd polars across 5 AoA, validated against Ladson 1988 wind tunnel data, coupled with CST-based shape optimization. |
-| [Aerodynamics in Soccer](https://ajeet-krish.github.io/Soccer-CFD) | Python, $\Phi$Flow, SU2, Gmsh, PyVista | Two-solver CFD pipeline analyzing Magnus effect, knuckleball vortex shedding, and wake drafting for overlapping players across multiple Reynolds regimes. |
-| [F1 Aerodynamics Dashboard](https://github.com/ajeet-krish/F1-telemetry-analysis) | Python, FastF1, SU2, Plotly, NumPy, SciPy | Interactive F1 aero analysis platform combining real telemetry with first-principles analytical models (thin airfoil theory, ground effect) and SU2-validated 2D venturi tunnel simulations. |
-
-## 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ajeet-krish&show_icons=true&theme=tokyonight" alt="Ajeet's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet-krish&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-## 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/ajeetkrishnasamy/) | [Email](mailto:ajeetkrish@icloud.com) | [Portfolio](https://ajeet-krish.github.io/portfolio)
+| [AK-Vortex: C++ LBM CFD Solver](https://ajeet-krish.github.io/lbm-2d/) | C++, OpenMP, Python, CMake | D2Q9 Lattice Boltzmann CFD solver built in C++20 from first principles with MRT collision, Bouzidi curved boundaries, Smagorinsky LES, and PINN supervision, validated across 15 benchmarks. |
+| [Cauchy: 2D Finite Element Structural Solver](https://ajeet-krish.github.io/fea-2d/) | C++20, FEA, OpenMP, Three.js | Header-only C++20 finite element solver featuring bar and Q4 elements, COO-to-CSR sparse assembly, Cholesky/CG solvers, GCI h-refinement, and an interactive Three.js WebGL viewer. |
+| [SwarmGNC: UAV Formation Control & FSW](https://ajeet-krish.github.io/UAV_swarm/) | Python, C++, MAVLink, Dear PyGui | Multi-agent UAV simulation paired with a C++17 flight software stack (state machine, FDIR, 6-DOF RK4 dynamics, MAVLink SIL testing) and a GPU-accelerated desktop GCS. |
+| [Airfoil CFD Explorer](https://ajeet-krish.github.io/Airfoil_CFD/) | Python, SU2, Gmsh, NeuralFoil, PyVista | Automated compressible RANS CFD pipeline solving hybrid C-grids, validated against Ladson 1988 wind tunnel data, coupled with CST parameterization and SLSQP shape optimization. |
+| [The Aerodynamics of Soccer](https://ajeet-krish.github.io/Soccer-CFD) | Python, $\Phi$Flow, SU2, Gmsh, PyVista | Two-solver CFD pipeline analyzing Magnus effect, knuckleball vortex shedding, and wake drafting for overlapping players across multiple Reynolds regimes. |
+| [3D Orbital Trajectory Animator](https://ajeet-krish.github.io/portfolio) | Python, NumPy, Matplotlib | Modular orbital mechanics package solving Kepler's equation and animating 3D satellite trajectories across seven regimes and maneuvers with custom 3D vector patches. |
