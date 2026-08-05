@@ -3,7 +3,7 @@
 I'm a Mechanical Engineering graduate specializing in CFD, FEA, and autonomous flight dynamics, with hands-on experience developing high-performance C++ physics solvers, Python simulation tools, and control systems. Eligible to work in both Canada and the United States.
 
 ## 🛠️ Technologies & Tools
-**Aerodynamics & CFD:** ANSYS CFD, STAR-CCM+, SU2, OpenFOAM, $\Phi$Flow, Gmsh, ParaView
+**Aerodynamics & CFD:** ANSYS CFD, STAR-CCM+, SU2, OpenFOAM, Gmsh, ParaView
 **Programming & CAD/FEA:** Python, C++, MATLAB, SolidWorks, Autodesk Fusion, Git, CMake
 **Dynamics & Control:** LQR Optimal Control, State-Space Dynamics, APF Guidance, Graph Laplacian, Monte Carlo
 **Manufacturing:** CNC Machining, 3D Printing, Lathe & Mill Operations, MIG Welding
