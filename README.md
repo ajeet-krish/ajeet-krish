@@ -20,7 +20,7 @@ I'm a Mechanical Engineering graduate specializing in CFD, FEA, and autonomous f
 ### [AK-Vortex](https://github.com/ajeet-krish/AK-Vortex) — Lattice Boltzmann CFD Solver
 `C++` `Python` `Rust`
 
-> D2Q9 LBM solver built from first principles with MRT collision, Bouzidi curved boundaries, Smagorinsky LES, and adaptive mesh refinement. Validated across 14 canonical benchmarks (Re = 100 to 400) with 219 Google Test cases. Desktop app with flow visualization.
+> C++ LBM solver built from first principles with MRT collision, Bouzidi curved boundaries, Smagorinsky LES, and adaptive mesh refinement. Validated across 14 canonical benchmarks (Re = 100 to 400) with 219 Google Test cases. Desktop app with flow visualization.
 
 [📂 Source](https://github.com/ajeet-krish/AK-Vortex)
 
