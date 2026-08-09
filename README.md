@@ -77,10 +77,3 @@ I'm a Mechanical Engineering graduate specializing in CFD, FEA, and autonomous f
   <i>Always open to discussing new opportunities, collaborations, or engineering problems.</i>
 </p>
 
----
-
-<p align="center">
-  <a href="https://github.com/ajeet-krish">
-    <img src="https://github-readme-stats.vercel.app/api?username=ajeet-krish&show_icons=true&theme=default" alt="GitHub Stats" />
-  </a>
-</p>
