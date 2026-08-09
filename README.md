@@ -65,7 +65,7 @@ I'm a Mechanical Engineering graduate specializing in CFD, FEA, and autonomous f
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ajeet-krishnasamy">
+  <a href="https://www.linkedin.com/in/ajeetkrishnasamy">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://ajeet-krish.github.io/portfolio">
