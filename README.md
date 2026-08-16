@@ -59,10 +59,10 @@ I'm a Mechanical Engineering graduate specializing in CFD, FEA, and autonomous f
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://ajeet-krish.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/ajeet-krish/ajeet-krish/raw/main/resume/AjeetKrishResume.pdf">
-    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-DC3545?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
 
