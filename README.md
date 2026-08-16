@@ -17,48 +17,38 @@ I'm a Mechanical Engineering graduate specializing in CFD, FEA, and autonomous f
 
 ## 🌟 Featured Projects
 
-### [AK-Vortex](https://github.com/ajeet-krish/AK-Vortex) — Lattice Boltzmann CFD Solver
+### [AK-Vortex](https://github.com/ajeet-krish/AK-Vortex): Lattice Boltzmann CFD Solver
 `C++` `Python` `Rust`
 
-> C++ LBM solver built from first principles with MRT collision, Bouzidi curved boundaries, Smagorinsky LES, and adaptive mesh refinement. Validated across 14 canonical benchmarks (Re = 100 to 400) with 219 Google Test cases. Desktop app with flow visualization.
-
-[📂 Source](https://github.com/ajeet-krish/AK-Vortex)
+> C++ LBM CFD solver with MRT collision, curved boundary handling, Smagorinsky LES turbulence modeling, and adaptive mesh refinement. Desktop app with flow visualization.
 
 ---
 
-### [Crucible-FEA](https://github.com/ajeet-krish/Crucible-FEA) — 2D/3D Finite Element Structural Solver
+### [Crucible-FEA](https://github.com/ajeet-krish/Crucible-FEA) — 2D Finite Element Structural Solver
 `C++` `Python`
 
-> Header-only C++20 FEA solver with 6 element types (bar, Q4, Q8, T3, H8, T4), COO-to-CSR sparse assembly, Cholesky/CG solvers, and GCI convergence tracking. Validated against 10 canonical cases within 1% of analytical solutions. Desktop app featuring interactive geometry editing and analysis plot panels.
-
-[📂 Source](https://github.com/ajeet-krish/Crucible-FEA)
+> C++ finite element solver with 6 element types (bar, Q4, Q8, T3, H8, T4). Desktop application with mesh generation, boundary condition setup, solving, and visualization.
 
 ---
 
 ### [Zenith](https://github.com/ajeet-krish/zenith) — Orbital Propagation & Flight Dynamics Engine
 `C++` `Python`
 
-> High-fidelity orbital propagator with SGP4/SDP4, force models (J2/J4, drag, SRP, third-body), and analysis modules (conjunction assessment, Lambert solver, Monte Carlo, Walker constellation).
-
-[📂 Source](https://github.com/ajeet-krish/zenith)
+> C++ orbital mechanics engine that predicts satellite trajectories using industry-standard SGP4/SDP4 models. Includes maneuver planning, conjunction assessment, and GPU acceleration for analyzing thousands of orbits simultaneously.
 
 ---
 
 ### [AstroSim](https://github.com/ajeet-krish/AstroSim) — Real-Time Spacecraft ADCS Simulator
 `C++` `Python`
 
-> Production-grade ADCS simulator with quaternion math, IGRF-13 magnetic field modeling, multi-source sensor emulation, and Error-State EKF attitude determination. 6-mode flight state machine with B-dot/PD control, reaction wheel dynamics, and FDIR fault handling.
-
-[📂 Source](https://github.com/ajeet-krish/AstroSim)
+> Attitude determination and control system (ADCS) simulator for satellites. Models real-world sensors (star trackers, magnetometers, gyroscopes) and actuators (reaction wheels, magnetorquers) with fault detection and recovery.
 
 ---
 
 ### [SwarmGNC](https://github.com/ajeet-krish/SwarmGNC) — UAV Formation Control & Flight Software
 `C++` `Python` `MAVLink` `Rust`
 
-> Decentralized multi-agent UAV swarm with 6-DOF dynamics, LQR optimal control, and 3D DCM guidance for 7-drone formations. Production C++ flight software stack with state machine, FDIR, and 100 Hz dynamics kernel. SIL-tested via pytest + MAVLink over UDP.
-
-[📂 Source](https://github.com/ajeet-krish/SwarmGNC)
+> Decentralized multi-agent UAV swarm simulation using 6-DOF state-space dynamics, LQR optimal control, and C++ flight software (state machine, FDIR, MAVLink SIL testing) with a desktop ground control station.
 
 ---
 
@@ -70,6 +60,9 @@ I'm a Mechanical Engineering graduate specializing in CFD, FEA, and autonomous f
   </a>
   <a href="https://ajeet-krish.github.io/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/ajeet-krish/ajeet-krish/raw/main/resume/AjeetKrishResume.pdf">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
 
