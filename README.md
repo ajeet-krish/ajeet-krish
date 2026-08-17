@@ -4,37 +4,16 @@
   </a>
 </p>
 
+I'm a Mechanical engineering graduate with hands-on experience building high-performance C++ physics solvers, flight dynamics pipelines, and spacecraft GNC systems.
+
+My work covers computational fluid dynamics, finite element analysis, orbital propagation, and attitude determination and control.
+
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square&logo=mathworks&logoColor=white" />
-
-  <!-- CFD & Simulation -->
   <img src="https://img.shields.io/badge/ANSYS-0A66C2?style=flat-square&logo=ansys&logoColor=white" />
-  <img src="https://img.shields.io/badge/SU2-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenFOAM-0A66C2?style=flat-square" />
-  <img src="https://img.shields.io/badge/ParaView-0A66C2?style=flat-square" />
-
-  <!-- CAD -->
   <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&logo=solidworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Autodesk_Fusion-FF8C00?style=flat-square&logo=autodesk&logoColor=white" />
-
-  <!-- GNC & Orbital -->
-  <img src="https://img.shields.io/badge/SGP4--SDP4-8957E5?style=flat-square" />
-  <img src="https://img.shields.io/badge/EKF-8957E5?style=flat-square" />
-  <img src="https://img.shields.io/badge/LQR-8957E5?style=flat-square" />
-
-  <!-- HPC & ML -->
-  <img src="https://img.shields.io/badge/OpenMP-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Apple_Metal-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-
-  <!-- Testing -->
-  <img src="https://img.shields.io/badge/Google_Test-238636?style=flat-square" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
 ---
@@ -144,24 +123,6 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment
 
 ---
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%88_GitHub_Stats-58A6FF?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
-</p>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ajeet-krish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet-krish&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
----
-
 <!-- Build Status -->
 <p align="center">
   <img src="https://img.shields.io/badge/%E2%9C%85_Build_Status-238636?style=for-the-badge&labelColor=0D1117&color=238636" />
@@ -190,21 +151,10 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment
     <img src="https://img.shields.io/badge/Resume-PDF-DC3545?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
   <a href="mailto:ajeetkrish@icloud.com">
-    <img src="https://img.shields.io/badge/Email-ajeetkrish%40icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ajeetkrish%40icloud.com-DC3545?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
   <i>Always open to discussing new opportunities, collaborations, or engineering problems.</i>
-</p>
-
----
-
-<!-- Contribution Snake -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/github-snake.svg" />
-  </picture>
 </p>
