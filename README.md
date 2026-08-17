@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Ajeet+Krishnasamy;CFD+%7C+FEA+%7C+Flight+Dynamics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Ajeet+Krishnasamy;CFD+%7C+FEA+%7C+Flight+Dynamics" alt="Typing SVG" />
   </a>
 </p>
 
@@ -147,7 +147,7 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment
   <a href="https://www.linkedin.com/in/ajeetkrishnasamy">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="resume/AjeetKrishResume.pdf">
+  <a href="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/main/resume/AjeetKrishResume.pdf">
     <img src="https://img.shields.io/badge/Resume-PDF-DC3545?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
   <a href="mailto:ajeetkrish@icloud.com">
