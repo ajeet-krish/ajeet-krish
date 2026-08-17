@@ -1,26 +1,66 @@
-# Ajeet Krishnasamy
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Ajeet+Krishnasamy;Mechanical+%26+Aerospace+Engineer;CFD+%7C+FEA+%7C+Orbital+Mechanics" alt="Typing SVG" />
+  </a>
+</p>
 
-I'm a Mechanical engineering graduate with hands-on experience building high-performance C++ physics solvers, flight dynamics pipelines, and spacecraft GNC systems.
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square&logo=mathworks&logoColor=white" />
 
-My work covers computational fluid dynamics, finite element analysis, orbital propagation, and attitude determination and control.
+  <!-- CFD & Simulation -->
+  <img src="https://img.shields.io/badge/ANSYS-0A66C2?style=flat-square&logo=ansys&logoColor=white" />
+  <img src="https://img.shields.io/badge/SU2-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenFOAM-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/ParaView-0A66C2?style=flat-square" />
+
+  <!-- CAD -->
+  <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&logo=solidworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autodesk_Fusion-FF8C00?style=flat-square&logo=autodesk&logoColor=white" />
+
+  <!-- GNC & Orbital -->
+  <img src="https://img.shields.io/badge/SGP4--SDP4-8957E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/EKF-8957E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/LQR-8957E5?style=flat-square" />
+
+  <!-- HPC & ML -->
+  <img src="https://img.shields.io/badge/OpenMP-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Apple_Metal-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+
+  <!-- Testing -->
+  <img src="https://img.shields.io/badge/Google_Test-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
 
 ---
 
-## Featured Projects
+<!-- Featured Projects -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%94%A7_Featured_Projects-0A66C2?style=for-the-badge&labelColor=0D1117&color=0A66C2" />
+</p>
 
 <table>
 <tr>
 <td width="33%" align="center">
+
+![AK-Vortex Flow Visualization](assets/flow_viz_demo.gif)
 
 ### [AK-Vortex](https://github.com/ajeet-krish/AK-Vortex)
 **C++ Lattice Boltzmann CFD Solver**
 
 `C++` `Python` `Rust`
 
-MRT collision · Smagorinsky LES · Bouzidi bounce-back · AMR · Rust frontend
+MRT collision · Smagorinsky LES · Bouzidi bounce-back · AMR
 
 </td>
 <td width="33%" align="center">
+
+![Crucible-FEA Deformed Mesh](assets/cantilever_deformed_mesh.png)
 
 ### [Crucible-FEA](https://github.com/ajeet-krish/Crucible-FEA)
 **C++ Finite Element Structural Solver**
@@ -32,12 +72,14 @@ MRT collision · Smagorinsky LES · Bouzidi bounce-back · AMR · Rust frontend
 </td>
 <td width="33%" align="center">
 
+![Zenith 3D Orbit View](assets/3d-orbit-view.gif)
+
 ### [Zenith](https://github.com/ajeet-krish/zenith)
 **Orbital Propagation & Flight Dynamics Engine**
 
 `C++` `Python`
 
-SGP4/SDP4 propagation · Force models · Conjunction assessment · GPU acceleration
+SGP4/SDP4 propagation · Force models · Conjunction assessment
 
 </td>
 </tr>
@@ -45,9 +87,14 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment · GPU accelerat
 
 ---
 
-## Project Catalog
+<!-- Project Catalog -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%96_Project_Catalog-238636?style=for-the-badge&labelColor=0D1117&color=238636" />
+</p>
 
-### CFD & Aerodynamics
+<details>
+<summary><b>CFD & Aerodynamics</b> (3 projects)</summary>
+<br>
 
 | Project | Tech | Summary |
 |---------|------|---------|
@@ -55,14 +102,21 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment · GPU accelerat
 | [Airfoil CFD Explorer](https://github.com/ajeet-krish/Airfoil_CFD) | `Python` `SU2` `Gmsh` | Automated RANS pipeline with NACA 0012 validation and CST shape optimization |
 | [The Aerodynamics of Soccer](https://github.com/ajeet-krish/Soccer-CFD) | `Python` `PhiFlow` `SU2` | Magnus effect, vortex shedding, wake drafting, tactical formation flow |
 
+</details>
 
-### FEA & Structural Analysis
+<details>
+<summary><b>FEA & Structural Analysis</b> (1 project)</summary>
+<br>
 
 | Project | Tech | Summary |
 |---------|------|---------|
 | [Crucible-FEA](https://github.com/ajeet-krish/Crucible-FEA) | `C++` `Python` | 6-element FEA solver with nonlinear dynamics, contact, desktop app |
 
-### Flight Dynamics & GNC
+</details>
+
+<details>
+<summary><b>Flight Dynamics & GNC</b> (3 projects)</summary>
+<br>
 
 | Project | Tech | Summary |
 |---------|------|---------|
@@ -70,9 +124,14 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment · GPU accelerat
 | [AstroSim](https://github.com/ajeet-krish/AstroSim) | `C++` `Python` | ADCS simulator with sensor models, EKF attitude determination, FDIR |
 | [SwarmGNC](https://github.com/ajeet-krish/SwarmGNC) | `C++` `Python` `Rust` | 7-drone swarm, LQR, APF, FDIR, Rust GCS |
 
+</details>
+
 ---
 
-## Tech Stack
+<!-- Tech Stack -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9B%A0_Tech_Stack-8957E5?style=for-the-badge&labelColor=0D1117&color=8957E5" />
+</p>
 
 | Domain | Technologies |
 |--------|-------------|
@@ -85,7 +144,28 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment · GPU accelerat
 
 ---
 
-## Build Status
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%88_GitHub_Stats-58A6FF?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
+</p>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ajeet-krish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet-krish&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Build Status -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9C%85_Build_Status-238636?style=for-the-badge&labelColor=0D1117&color=238636" />
+</p>
 
 | Project | CI | Tests | Platform |
 |---------|-----|-------|----------|
@@ -97,7 +177,10 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment · GPU accelerat
 
 ---
 
-## Let's Connect
+<!-- Let's Connect -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%AC_Let%27s_Connect-0A66C2?style=for-the-badge&labelColor=0D1117&color=0A66C2" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ajeetkrishnasamy">
@@ -113,4 +196,15 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment · GPU accelerat
 
 <p align="center">
   <i>Always open to discussing new opportunities, collaborations, or engineering problems.</i>
+</p>
+
+---
+
+<!-- Contribution Snake -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/github-snake.svg" />
+  </picture>
 </p>
