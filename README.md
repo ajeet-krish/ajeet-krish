@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Ajeet+Krishnasamy;Mechanical+%26+Aerospace+Engineer;CFD+%7C+FEA+%7C+Orbital+Mechanics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Ajeet+Krishnasamy;CFD+%7C+FEA+%7C+Orbital+Mechanics" alt="Typing SVG" />
   </a>
 </p>
 
-I'm a Mechanical engineering graduate with hands-on experience building high-performance C++ physics solvers, flight dynamics pipelines, and spacecraft GNC systems.
+I'm a Mechanical Engineering graduate with hands-on experience building high-performance C++ physics solvers, flight dynamics pipelines, and spacecraft GNC systems.
 
 My work covers computational fluid dynamics, finite element analysis, orbital propagation, and attitude determination and control.
 
