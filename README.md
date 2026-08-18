@@ -94,6 +94,16 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment
 </details>
 
 <details>
+<summary><b>CAD & Mechanical Design</b> (1 project)</summary>
+<br>
+
+| Project | Tech | Summary |
+|---------|------|---------|
+| [Piston-Crankshaft CAD](https://github.com/ajeet-krish/piston-crankshaft-cad) | `Fusion 360` `FreeCAD` `GD&T` | 4-piston inline assembly with ASME Y14.5 tolerancing, FEA validation, DFM analysis |
+
+</details>
+
+<details>
 <summary><b>Flight Dynamics & GNC</b> (3 projects)</summary>
 <br>
 
