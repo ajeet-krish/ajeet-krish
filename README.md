@@ -75,11 +75,38 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment
 <summary><b>CFD & Aerodynamics</b> (3 projects)</summary>
 <br>
 
-| Project | Tech | Summary |
-|---------|------|---------|
-| [AK-Vortex](https://github.com/ajeet-krish/AK-Vortex) | `C++` `Rust` `Python` | LBM CFD solver with MRT, LES, AMR, Rust desktop app, PINN surrogate |
-| [Airfoil CFD Explorer](https://github.com/ajeet-krish/Airfoil_CFD) | `Python` `SU2` `Gmsh` | Automated RANS pipeline with NACA 0012 validation and CST shape optimization |
-| [The Aerodynamics of Soccer](https://github.com/ajeet-krish/Soccer-CFD) | `Python` `PhiFlow` `SU2` | Magnus effect, vortex shedding, wake drafting, tactical formation flow |
+<table>
+<tr>
+<td width="80" align="center">
+<img src="assets/ak-vortex-thumb.png" width="80" />
+</td>
+<td>
+<b><a href="https://github.com/ajeet-krish/AK-Vortex">AK-Vortex</a></b><br>
+<code>C++</code> <code>Rust</code> <code>Python</code><br>
+LBM CFD solver with MRT, LES, AMR, Rust desktop app, PINN surrogate
+</td>
+</tr>
+<tr>
+<td width="80" align="center">
+<img src="assets/airfoil-cfd-thumb.png" width="80" />
+</td>
+<td>
+<b><a href="https://github.com/ajeet-krish/Airfoil_CFD">Airfoil CFD Explorer</a></b><br>
+<code>Python</code> <code>SU2</code> <code>Gmsh</code><br>
+Automated RANS pipeline with NACA 0012 validation and CST shape optimization
+</td>
+</tr>
+<tr>
+<td width="80" align="center">
+<img src="assets/soccer-cfd-thumb.png" width="80" />
+</td>
+<td>
+<b><a href="https://github.com/ajeet-krish/Soccer-CFD">The Aerodynamics of Soccer</a></b><br>
+<code>Python</code> <code>PhiFlow</code> <code>SU2</code><br>
+Magnus effect, vortex shedding, wake drafting, tactical formation flow
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -87,9 +114,18 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment
 <summary><b>FEA & Structural Analysis</b> (1 project)</summary>
 <br>
 
-| Project | Tech | Summary |
-|---------|------|---------|
-| [Crucible-FEA](https://github.com/ajeet-krish/Crucible-FEA) | `C++` `Python` | 6-element FEA solver with nonlinear dynamics, contact, desktop app |
+<table>
+<tr>
+<td width="80" align="center">
+<img src="assets/crucible-fea-thumb.png" width="80" />
+</td>
+<td>
+<b><a href="https://github.com/ajeet-krish/Crucible-FEA">Crucible-FEA</a></b><br>
+<code>C++</code> <code>Python</code><br>
+6-element FEA solver with nonlinear dynamics, contact, desktop app
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -100,7 +136,7 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment
 <table>
 <tr>
 <td width="80" align="center">
-<img src="assets/crankshaft-assembly.png" width="80" />
+<img src="assets/crankshaft_rotation.gif" width="80" />
 </td>
 <td>
 <b><a href="https://github.com/ajeet-krish/piston-crankshaft-cad">Piston-Crankshaft CAD</a></b><br>
@@ -116,11 +152,38 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment
 <summary><b>Flight Dynamics & GNC</b> (3 projects)</summary>
 <br>
 
-| Project | Tech | Summary |
-|---------|------|---------|
-| [Zenith](https://github.com/ajeet-krish/zenith) | `C++` `Python` | SGP4/SDP4 propagation, force models, conjunction assessment, GPU acceleration |
-| [AstroSim](https://github.com/ajeet-krish/AstroSim) | `C++` `Python` | ADCS simulator with sensor models, EKF attitude determination, FDIR |
-| [SwarmGNC](https://github.com/ajeet-krish/SwarmGNC) | `C++` `Python` `Rust` | 7-drone swarm, LQR, APF, FDIR, Rust GCS |
+<table>
+<tr>
+<td width="80" align="center">
+<img src="assets/zenith-thumb.png" width="80" />
+</td>
+<td>
+<b><a href="https://github.com/ajeet-krish/zenith">Zenith</a></b><br>
+<code>C++</code> <code>Python</code><br>
+SGP4/SDP4 propagation, force models, conjunction assessment, GPU acceleration
+</td>
+</tr>
+<tr>
+<td width="80" align="center">
+<img src="assets/astrosim-thumb.png" width="80" />
+</td>
+<td>
+<b><a href="https://github.com/ajeet-krish/AstroSim">AstroSim</a></b><br>
+<code>C++</code> <code>Python</code><br>
+ADCS simulator with sensor models, EKF attitude determination, FDIR
+</td>
+</tr>
+<tr>
+<td width="80" align="center">
+<img src="assets/swarmgnc-thumb.png" width="80" />
+</td>
+<td>
+<b><a href="https://github.com/ajeet-krish/SwarmGNC">SwarmGNC</a></b><br>
+<code>C++</code> <code>Python</code> <code>Rust</code><br>
+7-drone swarm, LQR, APF, FDIR, Rust GCS
+</td>
+</tr>
+</table>
 
 </details>
 
