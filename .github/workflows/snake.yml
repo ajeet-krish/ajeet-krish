@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"  # Every 12 hours
   workflow_dispatch:  # Manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,14 +19,13 @@ jobs:
           github_user_name: ajeet-krish
           outputs: dist/github-snake.svg
 
-      # Dark mode variant
       - uses: Platane/snk@v3
         with:
           github_user_name: ajeet-krish
           svg_out: dist/github-snake-dark.svg
           color_scheme: dark
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
