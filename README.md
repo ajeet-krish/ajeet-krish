@@ -97,9 +97,18 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment
 <summary><b>CAD & Mechanical Design</b> (1 project)</summary>
 <br>
 
-| Project | Tech | Summary |
-|---------|------|---------|
-| [Piston-Crankshaft CAD](https://github.com/ajeet-krish/piston-crankshaft-cad) | `Fusion 360` `FreeCAD` `GD&T` | 4-piston inline assembly with ASME Y14.5 tolerancing, FEA validation, DFM analysis |
+<table>
+<tr>
+<td width="80" align="center">
+<img src="assets/crankshaft-assembly.png" width="80" />
+</td>
+<td>
+<b><a href="https://github.com/ajeet-krish/piston-crankshaft-cad">Piston-Crankshaft CAD</a></b><br>
+<code>Fusion 360</code> <code>FreeCAD</code> <code>GD&T</code><br>
+4-piston inline assembly with ASME Y14.5 tolerancing, FEA validation, DFM analysis
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -124,7 +133,7 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment
 
 | Domain | Technologies |
 |--------|-------------|
-| **CAD/CFD** | SolidWorks · ANSYS · SU2 · OpenFOAM · ParaView |
+| **CAD/CFD** | SolidWorks · Autodesk Fusion · FreeCAD · ANSYS · SU2 · OpenFOAM · ParaView |
 | **Languages** | C++ · Python · Rust · MATLAB |
 | **GNC & Orbital** | SGP4/SDP4 · EKF · LQR · ADCS · Monte Carlo · State-Space Dynamics |
 | **HPC** | OpenMP · Apple Metal GPU |
