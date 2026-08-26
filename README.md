@@ -72,7 +72,7 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment
 </p>
 
 <details>
-<summary><b>CFD & Aerodynamics</b> (3 projects)</summary>
+<summary><b>CFD & Aerodynamics</b> (4 projects)</summary>
 <br>
 
 <table>
@@ -84,6 +84,16 @@ SGP4/SDP4 propagation · Force models · Conjunction assessment
 <b><a href="https://github.com/ajeet-krish/AK-Vortex">AK-Vortex</a></b><br>
 <code>C++</code> <code>Rust</code> <code>Python</code><br>
 LBM CFD solver with MRT, LES, AMR, Rust desktop app, PINN surrogate
+</td>
+</tr>
+<tr>
+<td width="80" align="center">
+<img src="assets/rocket-nozzle-cfd-thumb.png" width="80" />
+</td>
+<td>
+<b><a href="https://github.com/ajeet-krish/rocket-nozzle-cfd">Rocket Nozzle CFD</a></b><br>
+<code>Python</code> <code>SU2</code> <code>Gmsh</code><br>
+Compressible Euler/RANS analysis of converging-diverging nozzles with triple validation and parametric sweeps
 </td>
 </tr>
 <tr>
