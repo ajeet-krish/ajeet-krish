@@ -56,9 +56,9 @@ MRT collision · Smagorinsky LES · Bouzidi bounce-back · AMR
 ### [Zenith](https://github.com/ajeet-krish/zenith)
 **Browser-based Satellite Mission Planner**
 
-`React` `C++` `TypeScript`
+`React` `C++`
 
-SGP4 WASM engine · 3D orbit viz · Hohmann transfers · Monte Carlo · Walker constellations
+SGP4 C++ engine · 3D orbit viz · Hohmann transfers · Monte Carlo · Walker constellations
 
 </td>
 </tr>
@@ -179,8 +179,8 @@ Magnus effect, vortex shedding, wake drafting, tactical formation flow
 </td>
 <td>
 <b><a href="https://github.com/ajeet-krish/zenith">Zenith</a></b><br>
-<code>React</code> <code>C++</code> <code>TypeScript</code><br>
-Browser-based orbital mechanics toolkit: SGP4 WASM engine, real-time 3D visualization, Hohmann transfers, ground tracks, conjunction screening, Monte Carlo, Walker constellations
+<code>React</code> <code>C++</code> <br>
+Interactive satellite mission planner and orbital mechanics educational tool.
 </td>
 </tr>
 <tr>
