@@ -54,11 +54,11 @@ MRT collision · Smagorinsky LES · Bouzidi bounce-back · AMR
 ![Zenith 3D Orbit View](assets/3d-orbit-view.gif)
 
 ### [Zenith](https://github.com/ajeet-krish/zenith)
-**Orbital Propagation & Flight Dynamics Engine**
+**Browser-based Satellite Mission Planner**
 
-`C++` `Python`
+`React` `C++` `TypeScript`
 
-SGP4/SDP4 propagation · Force models · Conjunction assessment
+SGP4 WASM engine · 3D orbit viz · Hohmann transfers · Monte Carlo · Walker constellations
 
 </td>
 </tr>
@@ -175,12 +175,12 @@ Magnus effect, vortex shedding, wake drafting, tactical formation flow
 <table>
 <tr>
 <td width="80" align="center">
-<img src="assets/zenith-thumb.png" width="80" />
+<img src="assets/zenith-web-thumb.png" width="80" />
 </td>
 <td>
 <b><a href="https://github.com/ajeet-krish/zenith">Zenith</a></b><br>
-<code>C++</code> <code>Python</code><br>
-SGP4/SDP4 propagation, force models, conjunction assessment, GPU acceleration
+<code>React</code> <code>C++</code> <code>TypeScript</code><br>
+Browser-based orbital mechanics toolkit: SGP4 WASM engine, real-time 3D visualization, Hohmann transfers, ground tracks, conjunction screening, Monte Carlo, Walker constellations
 </td>
 </tr>
 <tr>
@@ -234,7 +234,7 @@ ADCS simulator with sensor models, EKF attitude determination, FDIR
 |---------|-----|-------|----------|
 | AK-Vortex | ![](https://github.com/ajeet-krish/AK-Vortex/actions/workflows/ci.yml/badge.svg) | 26 | Ubuntu + macOS |
 | Crucible-FEA | ![](https://github.com/ajeet-krish/Crucible-FEA/actions/workflows/ci.yml/badge.svg) | 57 | Ubuntu + macOS |
-| Zenith | ![](https://github.com/ajeet-krish/zenith/actions/workflows/ci.yml/badge.svg) | 139 | Ubuntu + macOS |
+| Zenith | ![](https://github.com/ajeet-krish/zenith/actions/workflows/deploy.yml/badge.svg) | 229 | Browser (GitHub Pages) |
 | AstroSim | ![](https://github.com/ajeet-krish/AstroSim/actions/workflows/ci.yml/badge.svg) | 199 | Ubuntu + macOS |
 | SwarmGNC | ![](https://github.com/ajeet-krish/SwarmGNC/actions/workflows/ci.yml/badge.svg) | 96 | Ubuntu + macOS |
 
