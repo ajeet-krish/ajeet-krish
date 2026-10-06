@@ -91,7 +91,7 @@ LBM CFD solver with MRT, LES, AMR, Rust desktop app, PINN surrogate
 <img src="assets/hypersonic-body-cfd-thumb.png" width="80" />
 </td>
 <td>
-<b><a href="https://github.com/ajeet-krish/Hypersonic-Body-CFD">Hypersonic Body CFD</a></b><br>
+<b><a href="https://github.com/ajeet-krish/Hypersonic-Apollo-CFD">Hypersonic Body CFD</a></b><br>
 <code>Python</code> <code>SU2</code> <code>Gmsh</code><br>
 Apollo CM re-entry RANS analysis at Mach 5-15.6, validated against analytical solutions
 </td>
