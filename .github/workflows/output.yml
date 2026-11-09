@@ -23,7 +23,7 @@ jobs:
           github_user_name: ajeet-krish
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg#mode:dark
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Give the runner ownership of dist
         run: sudo chown -R "$(id -u):$(id -g)" dist
