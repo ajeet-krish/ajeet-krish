@@ -8,6 +8,13 @@ I'm a Mechanical Engineering graduate with hands-on experience building high-per
 
 My work covers computational fluid dynamics, finite element analysis, orbital propagation, and attitude determination and control.
 
+```
+FOCUS      computational physics · CFD · FEA · flight dynamics · GNC
+BUILDING   AK-Vortex · Crucible-FEA · Zenith · Talon · AstroSim
+STACK      C++ · Python · Rust · SU2 · OpenFOAM · PyTorch
+ASK ME     LBM turbulence, FEA solvers, SGP4/SDP4, ADCS, EKF, multi-agent GNC
+```
+
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -19,6 +26,8 @@ My work covers computational fluid dynamics, finite element analysis, orbital pr
 ---
 
 <!-- Featured Projects -->
+<p align="center"><code>SHEET 01 · FEATURED WORK</code></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%94%A7_Featured_Projects-0A66C2?style=for-the-badge&labelColor=0D1117&color=0A66C2" />
 </p>
@@ -67,6 +76,8 @@ SGP4 C++ engine · 3D orbit viz · Hohmann transfers · Monte Carlo · Walker co
 ---
 
 <!-- Project Catalog -->
+<p align="center"><code>SHEET 02 · PROJECT CATALOG</code></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%93%96_Project_Catalog-238636?style=for-the-badge&labelColor=0D1117&color=238636" />
 </p>
@@ -169,7 +180,7 @@ Magnus effect, vortex shedding, wake drafting, tactical formation flow
 </details>
 
 <details>
-<summary><b>Flight Dynamics & GNC</b> (3 projects)</summary>
+<summary><b>Flight Dynamics & GNC</b> (4 projects)</summary>
 <br>
 
 <table>
@@ -181,6 +192,16 @@ Magnus effect, vortex shedding, wake drafting, tactical formation flow
 <b><a href="https://github.com/ajeet-krish/zenith">Zenith</a></b><br>
 <code>React</code> <code>C++</code> <br>
 Interactive satellite mission planner and orbital mechanics educational tool.
+</td>
+</tr>
+<tr>
+<td width="80" align="center">
+<img src="assets/talon-thumb.png" width="80" alt="Talon mission planner thumbnail" />
+</td>
+<td>
+<b><a href="https://github.com/ajeet-krish/Talon">Talon</a></b><br>
+<code>Rust</code> <code>React</code> <code>Python</code><br>
+Browser UAV autopilot simulator with a Rust GNC core (15-state EKF, NLGL guidance, cascaded PID), 3D flight replay, telemetry, and MAVLink software-in-the-loop
 </td>
 </tr>
 <tr>
@@ -207,25 +228,83 @@ ADCS simulator with sensor models, EKF attitude determination, FDIR
 
 </details>
 
+<details>
+<summary><b>Competitions</b> (2 projects)</summary>
+<br>
+
+<table>
+<tr>
+<td width="80" align="center">
+<img src="assets/gearflow-thumb.png" width="80" alt="GearFlow CFD agent thumbnail" />
+</td>
+<td>
+<b><a href="https://github.com/ajeet-krish/gearflow">GearFlow</a></b><br>
+<code>React</code> <code>TypeScript</code> <code>Python</code> <code>Rust</code><br>
+Meta Global AI hackathon: agentic interface where an AI sets up, runs, and explains CFD simulations from plain language
+</td>
+</tr>
+<tr>
+<td width="80" align="center">
+<img src="assets/stormfund-thumb.png" width="80" alt="Storm Fund weather forecast thumbnail" />
+</td>
+<td>
+<b><a href="https://github.com/ajeet-krish/stormfund">Storm Fund</a></b><br>
+<code>Python</code> <code>React</code><br>
+Sheridan Datathon: visualizes a bank account as a live weather forecast with runway analysis and shock simulation
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>Hobbies</b> (1 project)</summary>
+<br>
+
+<table>
+<tr>
+<td width="80" align="center">
+<img src="assets/cybersend-thumb.png" width="80" alt="CyberSend climbing logbook thumbnail" />
+</td>
+<td>
+<b><a href="https://github.com/ajeet-krish/cybersend">CyberSend</a></b><br>
+<code>Swift</code> <code>SwiftUI</code> <code>Core ML</code><br>
+Local-first iOS bouldering logbook: sessions, grades, photo tagging, on-device pose ML, zero accounts
+</td>
+</tr>
+</table>
+
+</details>
+
 ---
 
 <!-- Tech Stack -->
+<p align="center"><code>SHEET 03 · TECH STACK</code></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%9B%A0_Tech_Stack-8957E5?style=for-the-badge&labelColor=0D1117&color=8957E5" />
 </p>
 
 | Domain | Technologies |
 |--------|-------------|
-| **CAD/CFD** | SolidWorks · Autodesk Fusion · FreeCAD · ANSYS · SU2 · OpenFOAM · ParaView |
+| **CAD/CFD** | SolidWorks · Autodesk Fusion · FreeCAD · ANSYS · SU2 · OpenFOAM |
 | **Languages** | C++ · Python · Rust · MATLAB |
-| **GNC & Orbital** | SGP4/SDP4 · EKF · LQR · ADCS · Monte Carlo · State-Space Dynamics |
-| **HPC** | OpenMP · Apple Metal GPU |
-| **ML/AI** | PyTorch · Physics-Informed Neural Networks |
+| **ML/AI** | PyTorch · Physics-Informed Neural Networks · Computer Vision · AI Agent Harnesses |
 | **Manufacturing** | CNC Machining · 3D Printing · Lathe/Mill Operations · MIG Welding |
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,py,rust,matlab,react,git,linux&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,py,rust,matlab,react,git,linux&theme=light">
+    <img alt="C++, Python, Rust, MATLAB, React, Git, Linux" src="https://skillicons.dev/icons?i=cpp,py,rust,matlab,react,git,linux&theme=dark">
+  </picture>
+</p>
 
 ---
 
 <!-- Build Status -->
+<p align="center"><code>SHEET 04 · BUILD STATUS</code></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/%E2%9C%85_Build_Status-238636?style=for-the-badge&labelColor=0D1117&color=238636" />
 </p>
@@ -241,6 +320,8 @@ ADCS simulator with sensor models, EKF attitude determination, FDIR
 ---
 
 <!-- Let's Connect -->
+<p align="center"><code>SHEET 05 · CONTACT</code></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%93%AC_Let%27s_Connect-0A66C2?style=for-the-badge&labelColor=0D1117&color=0A66C2" />
 </p>
