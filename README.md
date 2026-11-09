@@ -16,6 +16,8 @@ I'm a Mechanical Engineering graduate with hands-on experience building high-per
 
 My work covers computational fluid dynamics, finite element analysis, orbital propagation, and attitude determination and control.
 
+Outside of coursework and projects, I like attending hackathons and building things from scratch.
+
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -314,10 +316,6 @@ Local-first iOS bouldering logbook: sessions, grades, photo tagging, on-device p
   </picture>
 </p>
 
-<details>
-<summary><b>Simulation mode</b> (the contribution field, advected by a snake)</summary>
-<br>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/github-snake-dark.svg">
@@ -325,8 +323,6 @@ Local-first iOS bouldering logbook: sessions, grades, photo tagging, on-device p
     <img alt="Animated snake eating the GitHub contribution grid" src="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/github-snake-dark.svg" width="100%" />
   </picture>
 </p>
-
-</details>
 
 ---
 
