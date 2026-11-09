@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" role="img" aria-label="Ajeet Krishnasamy, technical drawing title block">
+  <title>Ajeet Krishnasamy, technical drawing title block</title>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 L 0 20" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Sheet background -->
+  <rect x="0" y="0" width="800" height="200" fill="#FFFFFF"/>
+
+  <!-- Left field: 20px technical grid -->
+  <rect x="4" y="4" width="492" height="192" fill="url(#grid)" opacity="0.7"/>
+
+  <!-- North marker / coordinate crosshair -->
+  <g stroke="#0A66C2" stroke-width="1" fill="none">
+    <line x1="206" y1="100" x2="274" y2="100"/>
+    <line x1="240" y1="70" x2="240" y2="134"/>
+    <circle cx="240" cy="100" r="24"/>
+  </g>
+  <polygon points="240,58 235,70 245,70" fill="#0A66C2"/>
+  <circle cx="240" cy="100" r="2" fill="#0A66C2"/>
+  <text x="240" y="52" font-size="9" font-weight="bold" letter-spacing="1" fill="#24292F" text-anchor="middle">N</text>
+
+  <!-- Quiet series label -->
+  <text x="20" y="180" font-size="9" letter-spacing="2" fill="#57606A">TECHNICAL DRAWING &#183; PROFILE SERIES</text>
+
+  <!-- Sheet frame -->
+  <rect x="4" y="4" width="792" height="192" fill="none" stroke="#24292F" stroke-width="1.5"/>
+  <line x1="496" y1="4" x2="496" y2="56" stroke="#24292F" stroke-width="1"/>
+
+  <!-- Title block -->
+  <rect x="496" y="56" width="300" height="140" fill="#F6F8FA" stroke="#24292F" stroke-width="1"/>
+  <g stroke="#24292F" stroke-width="1">
+    <line x1="496" y1="96" x2="796" y2="96"/>
+    <line x1="496" y1="126" x2="796" y2="126"/>
+    <line x1="496" y1="156" x2="796" y2="156"/>
+    <line x1="604" y1="96" x2="604" y2="156"/>
+    <line x1="712" y1="96" x2="712" y2="156"/>
+  </g>
+
+  <!-- Name row -->
+  <text x="503" y="68" font-size="7" letter-spacing="1.5" fill="#57606A">TITLE</text>
+  <text x="503" y="88" font-size="19" font-weight="bold" letter-spacing="0.5" fill="#24292F">AJEET KRISHNASAMY</text>
+
+  <!-- Field cells: row 1 -->
+  <text x="503" y="107" font-size="7" letter-spacing="1" fill="#57606A">DWG NO</text>
+  <text x="503" y="121" font-size="10" fill="#24292F">PORTFOLIO-001</text>
+
+  <text x="611" y="107" font-size="7" letter-spacing="1" fill="#57606A">REV</text>
+  <text x="611" y="121" font-size="10" fill="#24292F">2026.11</text>
+
+  <text x="719" y="107" font-size="7" letter-spacing="1" fill="#57606A">SCALE</text>
+  <text x="719" y="121" font-size="10" fill="#24292F">1:1</text>
+
+  <!-- Field cells: row 2 -->
+  <text x="503" y="137" font-size="7" letter-spacing="1" fill="#57606A">SHEET</text>
+  <text x="503" y="151" font-size="10" fill="#24292F">1 OF 1</text>
+
+  <text x="611" y="137" font-size="7" letter-spacing="1" fill="#57606A">DRAWN BY</text>
+  <text x="611" y="151" font-size="10" fill="#24292F">A. KRISHNASAMY</text>
+
+  <text x="719" y="137" font-size="7" letter-spacing="1" fill="#57606A">DATE</text>
+  <text x="719" y="151" font-size="10" fill="#24292F">2026</text>
+
+  <!-- Bottom strip -->
+  <text x="503" y="172" font-size="8" letter-spacing="1.5" fill="#57606A">MECHANICAL ENGINEERING</text>
+  <text x="503" y="189" font-size="9.5" letter-spacing="0.5" fill="#24292F">CFD &#183; FEA &#183; FLIGHT DYNAMICS &#183; GNC</text>
+</svg>

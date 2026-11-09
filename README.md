@@ -1,4 +1,12 @@
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-titleblock-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-titleblock-light.svg">
+    <img src="assets/header-titleblock-dark.svg" alt="Ajeet Krishnasamy, technical drawing title block: mechanical engineering, CFD, FEA, flight dynamics, GNC" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=A371F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Ajeet+Krishnasamy;CFD+%7C+FEA+%7C+Flight+Dynamics" alt="Typing SVG" />
   </a>
@@ -7,13 +15,6 @@
 I'm a Mechanical Engineering graduate with hands-on experience building high-performance C++ physics solvers, flight dynamics pipelines, and spacecraft GNC systems.
 
 My work covers computational fluid dynamics, finite element analysis, orbital propagation, and attitude determination and control.
-
-```
-FOCUS      computational physics · CFD · FEA · flight dynamics · GNC
-BUILDING   AK-Vortex · Crucible-FEA · Zenith · Talon · AstroSim
-STACK      C++ · Python · Rust · SU2 · OpenFOAM · PyTorch
-ASK ME     LBM turbulence, FEA solvers, SGP4/SDP4, ADCS, EKF, multi-agent GNC
-```
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -26,10 +27,9 @@ ASK ME     LBM turbulence, FEA solvers, SGP4/SDP4, ADCS, EKF, multi-agent GNC
 ---
 
 <!-- Featured Projects -->
-<p align="center"><code>SHEET 01 · FEATURED WORK</code></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%94%A7_Featured_Projects-0A66C2?style=for-the-badge&labelColor=0D1117&color=0A66C2" />
+  <img src="https://img.shields.io/badge/Featured_Projects-0A66C2?style=for-the-badge&labelColor=0D1117&color=0A66C2" />
 </p>
 
 <table>
@@ -76,10 +76,9 @@ SGP4 C++ engine · 3D orbit viz · Hohmann transfers · Monte Carlo · Walker co
 ---
 
 <!-- Project Catalog -->
-<p align="center"><code>SHEET 02 · PROJECT CATALOG</code></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%96_Project_Catalog-238636?style=for-the-badge&labelColor=0D1117&color=238636" />
+  <img src="https://img.shields.io/badge/Project_Catalog-238636?style=for-the-badge&labelColor=0D1117&color=238636" />
 </p>
 
 <details>
@@ -279,10 +278,9 @@ Local-first iOS bouldering logbook: sessions, grades, photo tagging, on-device p
 ---
 
 <!-- Tech Stack -->
-<p align="center"><code>SHEET 03 · TECH STACK</code></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9B%A0_Tech_Stack-8957E5?style=for-the-badge&labelColor=0D1117&color=8957E5" />
+  <img src="https://img.shields.io/badge/Tech_Stack-8957E5?style=for-the-badge&labelColor=0D1117&color=8957E5" />
 </p>
 
 | Domain | Technologies |
@@ -294,36 +292,48 @@ Local-first iOS bouldering logbook: sessions, grades, photo tagging, on-device p
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,py,rust,matlab,react,git,linux&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,py,rust,matlab,react,git,linux&theme=light">
-    <img alt="C++, Python, Rust, MATLAB, React, Git, Linux" src="https://skillicons.dev/icons?i=cpp,py,rust,matlab,react,git,linux&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,py,rust,matlab,react,git&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,py,rust,matlab,react,git&theme=light">
+    <img alt="C++, Python, Rust, MATLAB, React, Git" src="https://skillicons.dev/icons?i=cpp,py,rust,matlab,react,git&theme=dark">
   </picture>
 </p>
 
----
-
-<!-- Build Status -->
-<p align="center"><code>SHEET 04 · BUILD STATUS</code></p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9C%85_Build_Status-238636?style=for-the-badge&labelColor=0D1117&color=238636" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/fig-01-commit-discretization-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/fig-01-commit-discretization.svg">
+    <img alt="Figure 1: contribution calendar drawn as an engineering plot of commit discretization over a 52 week domain" src="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/fig-01-commit-discretization-dark.svg" width="100%" />
+  </picture>
 </p>
 
-| Project | CI | Tests | Platform |
-|---------|-----|-------|----------|
-| AK-Vortex | ![](https://github.com/ajeet-krish/AK-Vortex/actions/workflows/ci.yml/badge.svg) | 26 | Ubuntu + macOS |
-| Crucible-FEA | ![](https://github.com/ajeet-krish/Crucible-FEA/actions/workflows/ci.yml/badge.svg) | 57 | Ubuntu + macOS |
-| Zenith | ![](https://github.com/ajeet-krish/zenith/actions/workflows/deploy.yml/badge.svg) | 229 | Browser (GitHub Pages) |
-| AstroSim | ![](https://github.com/ajeet-krish/AstroSim/actions/workflows/ci.yml/badge.svg) | 199 | Ubuntu + macOS |
-| SwarmGNC | ![](https://github.com/ajeet-krish/SwarmGNC/actions/workflows/ci.yml/badge.svg) | 96 | Ubuntu + macOS |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/fig-02-language-donut-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/fig-02-language-donut.svg">
+    <img alt="Figure 2: donut gauge of language distribution by bytes of code" src="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/fig-02-language-donut-dark.svg" width="480" />
+  </picture>
+</p>
+
+<details>
+<summary><b>Simulation mode</b> (the contribution field, advected by a snake)</summary>
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/github-snake.svg">
+    <img alt="Animated snake eating the GitHub contribution grid" src="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+</details>
 
 ---
 
 <!-- Let's Connect -->
-<p align="center"><code>SHEET 05 · CONTACT</code></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%AC_Let%27s_Connect-0A66C2?style=for-the-badge&labelColor=0D1117&color=0A66C2" />
+  <img src="https://img.shields.io/badge/Let%27s_Connect-0A66C2?style=for-the-badge&labelColor=0D1117&color=0A66C2" />
 </p>
 
 <p align="center">
@@ -338,6 +348,4 @@ Local-first iOS bouldering logbook: sessions, grades, photo tagging, on-device p
   </a>
 </p>
 
-<p align="center">
-  <i>Always open to discussing new opportunities, collaborations, or engineering problems.</i>
-</p>
+<p align="center"><code>ALWAYS OPEN TO NEW OPPORTUNITIES AND ENGINEERING PROBLEMS</code></p>
