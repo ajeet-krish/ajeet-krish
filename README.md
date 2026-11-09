@@ -6,12 +6,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=A371F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Ajeet+Krishnasamy;CFD+%7C+FEA+%7C+Flight+Dynamics" alt="Typing SVG" />
-  </a>
-</p>
-
 I'm a Mechanical Engineering graduate with hands-on experience building high-performance C++ physics solvers, flight dynamics pipelines, and spacecraft GNC systems.
 
 My work covers computational fluid dynamics, finite element analysis, orbital propagation, and attitude determination and control.
@@ -20,10 +14,9 @@ My work covers computational fluid dynamics, finite element analysis, orbital pr
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/CFD-0A66C2?style=flat-square" alt="CFD" />
-  <img src="https://img.shields.io/badge/CAD-FF8C00?style=flat-square" alt="CAD" />
-  <img src="https://img.shields.io/badge/FEA-238636?style=flat-square" alt="FEA" />
-  <img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/CFD-0A66C2?style=flat-square&logo=ansys&logoColor=white" alt="CFD" />
+  <img src="https://img.shields.io/badge/CAD-FF8C00?style=flat-square&logo=autodesk&logoColor=white" alt="CAD" />
+  <img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9Im1hdGxhYi1vcmlnaW5hbC1hIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjE2LjgwMyIgeTE9IjE2LjYzMSIgeDI9IjE1LjAxMyIgeTI9IjIyLjQxMSIgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCg0IDAgMCAtNCAwIDEyOCkiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzUxMiIvPjxzdG9wIG9mZnNldD0iLjIzIiBzdG9wLWNvbG9yPSIjNTIzIi8%2BPHN0b3Agb2Zmc2V0PSIuMzYiIHN0b3AtY29sb3I9IiM1MzQiLz48c3RvcCBvZmZzZXQ9Ii41MSIgc3RvcC1jb2xvcj0iIzY0NSIvPjxzdG9wIG9mZnNldD0iLjY2IiBzdG9wLWNvbG9yPSIjNTY4Ii8%2BPHN0b3Agb2Zmc2V0PSIuODQiIHN0b3AtY29sb3I9IiMyOWQiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibWF0bGFiLW9yaWdpbmFsLWIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iMjkuNzEiIHkxPSIxOC45ODMiIHgyPSIxMS43MSIgeTI9IjE0LjU2MyIgZ3JhZGllbnRUcmFuc2Zvcm09InNjYWxlKDQpIj48c3RvcCBvZmZzZXQ9Ii4wODEiIHN0b3AtY29sb3I9IiNjMzMiLz48c3RvcCBvZmZzZXQ9Ii4xODkiIHN0b3AtY29sb3I9IiNkZTUyMzkiLz48c3RvcCBvZmZzZXQ9Ii4zMTMiIHN0b3AtY29sb3I9IiNmMDZlM2UiLz48c3RvcCBvZmZzZXQ9Ii40MjEiIHN0b3AtY29sb3I9IiNmYTgwNDIiLz48c3RvcCBvZmZzZXQ9Ii41IiBzdG9wLWNvbG9yPSIjZmU4NjQzIi8%2BPHN0b3Agb2Zmc2V0PSIuNTgiIHN0b3AtY29sb3I9IiNmYTdmNDIiLz48c3RvcCBvZmZzZXQ9Ii42OTYiIHN0b3AtY29sb3I9IiNlZjZjM2UiLz48c3RvcCBvZmZzZXQ9Ii44MzMiIHN0b3AtY29sb3I9IiNkYzRjMzciLz48c3RvcCBvZmZzZXQ9Ii45MTYiIHN0b3AtY29sb3I9IiNjZjM2MzMiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cGF0aCBkPSJNOCA3MC4ybDMxLjg3OS0xMi44OGE4Mi42MiA4Mi42MiAwIDAxMTAuODgzLTExLjhjMi42MzYtMS4zOTkgNy41OTctLjY0MSAxNi42OC0xMS45MTggOC43OTYtMTEgMTEuNTk3LTIwLjQwMyAxNS43MTgtMjAuNDAzIDYuNTIgMCAxMS4zMiAxNC4wODIgMTguNjAyIDM1LjQwM0E0NjEuNzUgNDYxLjc1IDAgMDAxMjAgOTYuNDhjLTcuNjAyLTcuMDgyLTE0LjA3OC0xNC43MTgtMjEuNDgtMTQuNTItNi44OC4xNjEtMTQuNTIgOC4zMjEtMjIuODggMTguODAyQzY5IDEwOS4xNiA2MC4yIDExNC45MjIgNTYuNzYzIDExNC44YzAgMC04Ljg4My0yNS4xMjEtMTYuMzItMjkuMmExMC41NjMgMTAuNTYzIDAgMDAtOS41NjMuNzk3TDggNzAuMTZ6bTAgMCIgZmlsbD0iIzQ5ZCIvPjxwYXRoIGQ9Ik03OS4yIDE2LjA3OGMtMi42OCAzLjYwMi01LjkyIDEwLjIwMy0xMS43NiAxNy41MjQtOS4wODIgMTEuMjc3LTE0IDEwLjUyLTE2LjY4IDExLjkxOGE3OC42NzMgNzguNjczIDAgMDAtMTAuODgyIDExLjhsMTMuMiA5LjY0QzY0LjI4IDUxLjY4IDcwLjI4IDM1LjEyMiA3NC45NiAyNC4zOTlhNTQuNjQ5IDU0LjY0OSAwIDAxNC4yMzgtOC4zMnptMCAwIiBmaWxsPSJ1cmwoI21hdGxhYi1vcmlnaW5hbC1hKSIvPjxwYXRoIGQ9Ik04My4yIDEzLjJjLTguNzIgMC0xNC42OCA0NS45MjEtNDYuODggNzEuNTYyIDkuMDQtMS40OCAxNi44OCAyMC45NTcgMjAuNDggMzAuMDM5IDE2LTIuNzIzIDI4LjgwMi0zMy4zMiA0MS43Mi0zMi44NCA3LjQwMi4yNzcgMTMuODc4IDcuNDM3IDIxLjQ4IDE0LjUyQzEwMi42NCA2MCA5NC41MiAxMy4xOTggODMuMiAxMy4xOTh6bTAgMCIgZmlsbD0idXJsKCNtYXRsYWItb3JpZ2luYWwtYikiLz48L3N2Zz4K" alt="MATLAB" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
