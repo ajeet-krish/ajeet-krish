@@ -4,3 +4,6 @@
 # Ignore all .md files except README.md
 *.md
 !README.md
+
+# Build output published to the output branch
+dist/
