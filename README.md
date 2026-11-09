@@ -17,11 +17,15 @@ I'm a Mechanical Engineering graduate with hands-on experience building high-per
 My work covers computational fluid dynamics, finite element analysis, orbital propagation, and attitude determination and control.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ANSYS-0A66C2?style=flat-square&logo=ansys&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&logo=solidworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Autodesk_Fusion-FF8C00?style=flat-square&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/CFD-0A66C2?style=flat-square" alt="CFD" />
+  <img src="https://img.shields.io/badge/CAD-FF8C00?style=flat-square" alt="CAD" />
+  <img src="https://img.shields.io/badge/FEA-238636?style=flat-square" alt="FEA" />
+  <img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -263,7 +267,7 @@ Sheridan Datathon: visualizes a bank account as a live weather forecast with run
 <table>
 <tr>
 <td width="80" align="center">
-<img src="assets/cybersend-thumb.png" width="80" alt="CyberSend climbing logbook thumbnail" />
+<img src="assets/cybersend-thumb.svg" width="80" alt="CyberSend climbing logbook logo" />
 </td>
 <td>
 <b><a href="https://github.com/ajeet-krish/cybersend">CyberSend</a></b><br>
@@ -289,14 +293,6 @@ Local-first iOS bouldering logbook: sessions, grades, photo tagging, on-device p
 | **Languages** | C++ · Python · Rust · MATLAB |
 | **ML/AI** | PyTorch · Physics-Informed Neural Networks · Computer Vision · AI Agent Harnesses |
 | **Manufacturing** | CNC Machining · 3D Printing · Lathe/Mill Operations · MIG Welding |
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,py,rust,matlab,react,git&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,py,rust,matlab,react,git&theme=light">
-    <img alt="C++, Python, Rust, MATLAB, React, Git" src="https://skillicons.dev/icons?i=cpp,py,rust,matlab,react,git&theme=dark">
-  </picture>
-</p>
 
 <p align="center">
   <picture>
@@ -326,4 +322,4 @@ Local-first iOS bouldering logbook: sessions, grades, photo tagging, on-device p
   </a>
 </p>
 
-<p align="center">Always open to new opportunities and engineering problems</p>
+<p align="center">Always open to new opportunities and engineering problems!</p>
