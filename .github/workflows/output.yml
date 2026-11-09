@@ -25,6 +25,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg#mode:dark
 
+      - name: Give the runner ownership of dist
+        run: sudo chown -R "$(id -u):$(id -g)" dist
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
