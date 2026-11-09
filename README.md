@@ -16,8 +16,6 @@ I'm a Mechanical Engineering graduate with hands-on experience building high-per
 
 My work covers computational fluid dynamics, finite element analysis, orbital propagation, and attitude determination and control.
 
-Outside of coursework and projects, I like attending hackathons and building things from scratch.
-
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -302,22 +300,6 @@ Local-first iOS bouldering logbook: sessions, grades, photo tagging, on-device p
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/fig-01-commit-discretization-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/fig-01-commit-discretization.svg">
-    <img alt="Figure 1: contribution calendar drawn as an engineering plot of commit discretization over a 52 week domain" src="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/fig-01-commit-discretization-dark.svg" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/fig-02-language-donut-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/fig-02-language-donut.svg">
-    <img alt="Figure 2: donut gauge of language distribution by bytes of code" src="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/fig-02-language-donut-dark.svg" width="480" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/github-snake.svg">
     <img alt="Animated snake eating the GitHub contribution grid" src="https://raw.githubusercontent.com/ajeet-krish/ajeet-krish/output/github-snake-dark.svg" width="100%" />
@@ -344,4 +326,4 @@ Local-first iOS bouldering logbook: sessions, grades, photo tagging, on-device p
   </a>
 </p>
 
-<p align="center"><code>ALWAYS OPEN TO NEW OPPORTUNITIES AND ENGINEERING PROBLEMS</code></p>
+<p align="center">Always open to new opportunities and engineering problems</p>
