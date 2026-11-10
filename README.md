@@ -225,6 +225,22 @@ ADCS simulator with sensor models, EKF attitude determination, FDIR
 </details>
 
 <details>
+<summary><b>Finance</b> (1 project)</summary>
+<br>
+
+<table>
+<tr>
+<td>
+<b><a href="https://github.com/ajeet-krish/goc-rates-monitor">GoC Rates Monitor</a></b><br>
+<code>Python</code> <code>SolidJS</code><br>
+Daily Government of Canada rates desk: 2 year and 10 year yields, curve shape, funding cost, and inflation, with fail-closed verification. <a href="https://ajeet-krish.github.io/goc-rates-monitor/">Live site</a>
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
 <summary><b>Competitions</b> (2 projects)</summary>
 <br>
 
