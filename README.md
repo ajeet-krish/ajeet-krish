@@ -225,7 +225,7 @@ ADCS simulator with sensor models, EKF attitude determination, FDIR
 </details>
 
 <details>
-<summary><b>Finance</b> (1 project)</summary>
+<summary><b>Finance</b> (4 projects)</summary>
 <br>
 
 <table>
@@ -234,6 +234,27 @@ ADCS simulator with sensor models, EKF attitude determination, FDIR
 <b><a href="https://github.com/ajeet-krish/goc-rates-monitor">GoC Rates Monitor</a></b><br>
 <code>Python</code> <code>SolidJS</code><br>
 Daily Government of Canada rates desk: 2 year and 10 year yields, curve shape, funding cost, and inflation, with fail-closed verification. <a href="https://ajeet-krish.github.io/goc-rates-monitor/">Live site</a>
+</td>
+</tr>
+<tr>
+<td>
+<b><a href="https://github.com/ajeet-krish/settlement-race">Settlement Race</a></b><br>
+<code>Rust</code> <code>TypeScript</code> <code>Solana</code><br>
+Tokenized USD/CAD exchange on Solana devnet racing sequential pay-first settlement against atomic delivery-versus-payment from one trade ticket, with hash-chained provenance anchored on chain
+</td>
+</tr>
+<tr>
+<td>
+<b><a href="https://github.com/ajeet-krish/venture-debt-engine">Venture Debt Engine</a></b><br>
+<code>Python</code> <code>TypeScript</code><br>
+Venture debt sizing, pricing, schedules, and covenant engine with integer cents arithmetic and an independent verify gate. <a href="https://ajeet-krish.github.io/venture-debt-engine/">Live site</a>
+</td>
+</tr>
+<tr>
+<td>
+<b><a href="https://github.com/ajeet-krish/aml-sentinel">AML Sentinel</a></b><br>
+<code>Python</code><br>
+Rules-plus-graph AML transaction monitoring and alert triage over the PKDD'99 financial ledger, with deterministic byte-identical builds and golden fixtures
 </td>
 </tr>
 </table>
