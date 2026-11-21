@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="260" viewBox="0 0 480 260" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<rect width="480" height="260" fill="#0D1117"/>
+<rect x="16" y="14" width="448" height="232" fill="#161B22" stroke="#21262D" stroke-width="1"/>
+<path d="M 119.073 52.007 A 82 82 0 0 1 187.688 177.215 L 160.493 160.351 A 50 50 0 0 0 118.654 84.004 Z" fill="#3178c6" fill-rule="evenodd" stroke="#0D1117" stroke-width="1"/>
+<path d="M 186.533 179.024 A 82 82 0 0 1 50.885 181.113 L 77.076 162.727 A 50 50 0 0 0 159.789 161.454 Z" fill="#3572A5" fill-rule="evenodd" stroke="#0D1117" stroke-width="1"/>
+<path d="M 49.675 179.340 A 82 82 0 0 1 36.032 131.710 L 68.020 132.603 A 50 50 0 0 0 76.338 161.646 Z" fill="#f34b7d" fill-rule="evenodd" stroke="#0D1117" stroke-width="1"/>
+<path d="M 36.120 129.565 A 82 82 0 0 1 46.124 94.530 L 74.173 109.933 A 50 50 0 0 0 68.073 131.296 Z" fill="#F05138" fill-rule="evenodd" stroke="#0D1117" stroke-width="1"/>
+<path d="M 47.182 92.662 A 82 82 0 0 1 65.004 71.426 L 85.686 95.845 A 50 50 0 0 0 74.818 108.794 Z" fill="#dea584" fill-rule="evenodd" stroke="#0D1117" stroke-width="1"/>
+<path d="M 66.660 70.061 A 82 82 0 0 1 81.181 60.731 L 95.550 89.324 A 50 50 0 0 0 86.695 95.013 Z" fill="#f1e05a" fill-rule="evenodd" stroke="#0D1117" stroke-width="1"/>
+<path d="M 83.112 59.792 A 82 82 0 0 1 116.927 52.007 L 117.346 84.004 A 50 50 0 0 0 96.727 88.751 Z" fill="#0A66C2" fill-rule="evenodd" stroke="#0D1117" stroke-width="1"/>
+<text x="118" y="130" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#C9D1D9" text-anchor="middle">7</text>
+<text x="118" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#8B949E" text-anchor="middle">LANGS</text>
+<rect x="236" y="58" width="10" height="10" fill="#3178c6" stroke="#21262D" stroke-width="0.5"/>
+<text x="254" y="66" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#C9D1D9" text-anchor="start">TypeScript</text>
+<text x="440" y="66" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B949E" text-anchor="end">34.0%</text>
+<rect x="236" y="84" width="10" height="10" fill="#3572A5" stroke="#21262D" stroke-width="0.5"/>
+<text x="254" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#C9D1D9" text-anchor="start">Python</text>
+<text x="440" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B949E" text-anchor="end">31.4%</text>
+<rect x="236" y="110" width="10" height="10" fill="#f34b7d" stroke="#21262D" stroke-width="0.5"/>
+<text x="254" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#C9D1D9" text-anchor="start">C++</text>
+<text x="440" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B949E" text-anchor="end">10.2%</text>
+<rect x="236" y="136" width="10" height="10" fill="#F05138" stroke="#21262D" stroke-width="0.5"/>
+<text x="254" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#C9D1D9" text-anchor="start">Swift</text>
+<text x="440" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B949E" text-anchor="end">7.5%</text>
+<rect x="236" y="162" width="10" height="10" fill="#dea584" stroke="#21262D" stroke-width="0.5"/>
+<text x="254" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#C9D1D9" text-anchor="start">Rust</text>
+<text x="440" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B949E" text-anchor="end">5.8%</text>
+<rect x="236" y="188" width="10" height="10" fill="#f1e05a" stroke="#21262D" stroke-width="0.5"/>
+<text x="254" y="196" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#C9D1D9" text-anchor="start">JavaScript</text>
+<text x="440" y="196" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B949E" text-anchor="end">3.8%</text>
+<rect x="236" y="214" width="10" height="10" fill="#0A66C2" stroke="#21262D" stroke-width="0.5"/>
+<text x="254" y="222" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#C9D1D9" text-anchor="start">OTHER</text>
+<text x="440" y="222" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8B949E" text-anchor="end">7.2%</text>
+<text x="24" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#8B949E" text-anchor="start">FIG. 02 · LANGUAGE DISTRIBUTION, BYTES OF CODE · SOURCE: GITHUB API</text>
+</svg>
